@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r-vb
+- 👋 Hi, I’m Rahul V.B
 - 🌱 I’m currently studying at SDMCET.
 - 📫 Reach me https://www.instagram.com/rahulvb27/
 
