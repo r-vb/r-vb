@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul V.B
 - 🌱 I’m currently studying at SDMCET.
-- 📫 Reach me https://www.instagram.com/rahulvb27/<br />
+- 📫 Reach me via <a href="https://www.instagram.com/rahulvb27/">instagram</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or <a href="https://rahulvb.com/contact">Contact Officially</a>
 <!---
