@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul V.B
-- 🌱 I’m currently studying CSE at SDMCET.
+- 🌱 Currently studying CSE at SDMCET.
 - 📫 Reach me via <a href="https://www.instagram.com/rahulvb27/">Instagram DM</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or <a href="https://rahulvb.com/contact">Contact Officially</a>
