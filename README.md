@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **https://www.rahulvb.com**
 
-- 💬 Official Contact? **www.rahulvb.com/contact**
+- 💬 Official Contact? **www.rahulvb.com/#contact**
 
 - 📫 How to reach me **github@rahulvb.com**
 
