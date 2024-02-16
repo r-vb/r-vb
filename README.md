@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=flat" alt="r-vb" /> </p>
 
-- 🔭 I’m currently working on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
+- 🔭 I’m currently leading / working on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
 
 - 🤝 I’m looking for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
 
