@@ -29,7 +29,7 @@
 </p>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=flat" alt="r-vb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="r-vb" /> </p>
 
 <!--- 👋 Hi, I’m Rahul V.B
 - 🌱 Currently studying CSE at SDMCET.
