@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **github@rahulvb.com**
 
-<br />
 <h2 align="center">Connect with me:</h2> 
 <p align="center">
 <a href="https://instagram.com/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulvb27" height="30" width="40" /></a>
@@ -23,7 +22,6 @@
 <a href="https://twitter.com/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulvb27" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahulvb27" height="30" width="40" /></a>
 </p>
-<br />
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
