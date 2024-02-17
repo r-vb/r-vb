@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=flat" alt="r-vb" /> </p>
 
-![r-vb Banner Image](r-vb-banner.png)
+![r-vb Banner Image](r-vb-banner.jpg)
 
 - 🔭 I’m currently leading / working on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
 
