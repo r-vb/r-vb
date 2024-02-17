@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
 
-- 👨‍💻 All of my projects are available at **https://www.rahulvb.com**
+- 👨‍💻 All of my latest projects are available at **https://www.rahulvb.com**
 
 - 💬 Official Contact? **www.rahulvb.com/#contact**
 
