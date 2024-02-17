@@ -33,16 +33,14 @@
 
 <hr>
 <div align="center">
-<p>
-</p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-vb&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-vb&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-vb&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8)
-
+  <h2 align="center">Profile Stats</h2>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-vb&theme=algolia" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-vb&theme=algolia" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-vb&theme=algolia" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8" alt="Productive Time">
 </div>
+
 
 <!--- 👋 Hi, I’m Rahul V.B
 - 🌱 Currently studying CSE at SDMCET.
