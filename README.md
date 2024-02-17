@@ -22,6 +22,13 @@
 <a href="https://twitter.com/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulvb27" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahulvb27" height="30" width="40" /></a>
 </p>
+<br />
+
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+</p>
+<br />
 
 <!--- 👋 Hi, I’m Rahul V.B
 - 🌱 Currently studying CSE at SDMCET.
