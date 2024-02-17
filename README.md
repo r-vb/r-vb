@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my latest projects are available at **https://www.rahulvb.com**
 
-- 💬 Official Contact? **www.rahulvb.com/#contact**
+- 💬 Official Website **www.rahulvb.com**
 
 - 📫 How to reach me **github@rahulvb.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="r-vb" /> </p>
