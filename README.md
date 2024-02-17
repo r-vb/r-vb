@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rahul V.B</h1>
-<h3 align="center">A CSE UG student | Tech Geek.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=flat" alt="r-vb" /> </p>
 
 ![r-vb Banner Image](r-vb-banner.jpg)
+
+<h1 align="center">Hi 👋, I'm Rahul V.B</h1>
+<h3 align="center">A CSE UG student | Tech Geek.</h3>
 
 - 🔭 I’m currently leading / working on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
 
@@ -14,8 +16,10 @@
 - 💬 Official Contact? **www.rahulvb.com/#contact**
 
 - 📫 How to reach me **github@rahulvb.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="r-vb" /> </p>
+<hr>
 
-<h2 align="center">Connect with me:</h2> 
+<h2 align="center">Connect with me</h2> 
 <p align="center">
 <a href="https://instagram.com/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulvb27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahulvb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rahulvb27" height="30" width="40" /></a>
@@ -29,7 +33,7 @@
 </p>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="r-vb" /> </p>
+
 
 <!--- 👋 Hi, I’m Rahul V.B
 - 🌱 Currently studying CSE at SDMCET.
