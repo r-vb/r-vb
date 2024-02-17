@@ -27,7 +27,7 @@
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,django,md,mongo,git,vscode,docker,aws,go,linux&perline=8"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,py,java,go,php,js,html,css,cloudflare,nodejs,eclipse,electron,github,django,md,raspberrypi,mongo,git,vscode,docker,gcp,aws,linux,figma&perline=5"  />
 </p>
 <br />
 
