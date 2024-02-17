@@ -31,7 +31,18 @@
 </p>
 <br />
 
+<hr>
+<div align="center">
+<p>
+</p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-vb&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-vb&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-vb&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8)
+
+</div>
 
 <!--- 👋 Hi, I’m Rahul V.B
 - 🌱 Currently studying CSE at SDMCET.
