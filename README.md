@@ -5,6 +5,10 @@
 
 ![r-vb Banner Image](r-vb-banner.png)
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 - 🔭 I’m currently leading / working on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
 
 - 🤝 I’m looking for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
