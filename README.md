@@ -39,7 +39,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-vb&theme=algolia" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8" alt="Productive Time"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=r-vb&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="r-vb's Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=r-vb&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="r-vb's Stats"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-vb&theme=dark&hide_border=true" alt="r-vb's Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-vb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="r-vb's Top Languages">
 </div>
