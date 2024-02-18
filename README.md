@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://instagram.com/rahulvb27" target="blank"><img align="center" src="instagram.svg" alt="rahulvb27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahulvb27" target="blank"><img align="center" src="linkedin.svg" alt="in/rahulvb27" height="30" width="40" /></a>
-<a href="https://twitter.com/rahulvb27" target="blank"><img align="center" src="twitter.svg" alt="rahulvb27" height="30" width="40" /></a>
+<a href="https://twitter.com/rahulvb27" target="blank"><img align="center" src="twitter-square.svg" alt="rahulvb27" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rahulvb27" target="blank"><img align="center" src="youtube.svg" alt="rahulvb27" height="30" width="40" /></a>
 </p>
 
