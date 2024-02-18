@@ -34,11 +34,12 @@
 <hr>
 <div align="center">
   <h2 align="center">Profile Stats</h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-vb&theme=algolia" alt="Profile Details">
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-vb&theme=algolia" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-vb&theme=algolia" alt="Repos per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-vb&theme=algolia" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia" alt="Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8" alt="Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8" alt="Productive Time"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-vb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Lang Used Stats">
 </div>
 
 
