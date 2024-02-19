@@ -1,5 +1,5 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=flat" alt="r-vb" /> </p> -->
-<img width=100% title="r-vb" alt="github.com/r-vb" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00FFFF,100:0096FF&text=Github.com/r-vb&fontSize=65"/> <!-- 0:00FFFF,100:0096FF -->
+<img width=100% title="r-vb" alt="github.com/r-vb" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00DBDE,100:FC00FF&text=Github.com/r-vb&fontSize=65"/> <!-- 0:00FFFF,100:0096FF -->
 
 <hr>
 <h1 align="center">Hi 👋, I'm Rahul V.B</h1>
@@ -45,7 +45,7 @@
 </div>
 <br>
 
-<img width=100% title="r-vb" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FFFF,100:0096FF&fontSize=65&section=footer"/> <!-- 0:00FFFF,100:0096FF -->
+<img width=100% title="r-vb" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FC00FF,100:00DBDE&fontSize=65&section=footer"/> <!-- 0:00FFFF,100:0096FF -->
 
 
 <!--- 👋 Hi, I’m Rahul V.B
