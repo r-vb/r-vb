@@ -40,7 +40,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8" alt="Productive Time"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=r-vb&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="r-vb's Stats"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-vb&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" alt="r-vb's Streak" width = "100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=r-vb&theme=react&hide_border=true" alt="r-vb's Streak" width = "100%">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-vb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="r-vb's Top Languages"> -->
 </div>
 <br>
