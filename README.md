@@ -1,5 +1,5 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=flat" alt="r-vb" /> </p> -->
-![r-vb Banner Image](r-vb-banner.jpg)
+<img width=100% title="r-vb" alt="github.com/r-vb" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00FFFF,100:0096FF&text=Github.com/r-vb&fontSize=65"/> <!-- 0:00FFFF,100:0096FF -->
 
 <hr>
 <h1 align="center">Hi 👋, I'm Rahul V.B</h1>
@@ -40,9 +40,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-vb&theme=algolia" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-vb&theme=algolia&utcOffset=8" alt="Productive Time"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=r-vb&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="r-vb's Stats"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-vb&theme=dark&hide_border=true" alt="r-vb's Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-vb&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" alt="r-vb's Streak" width = "100%">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-vb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="r-vb's Top Languages"> -->
 </div>
+<br>
+
+<img width=100% title="r-vb" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FFFF,100:0096FF&fontSize=65&section=footer"/> <!-- 0:00FFFF,100:0096FF -->
 
 
 <!--- 👋 Hi, I’m Rahul V.B
