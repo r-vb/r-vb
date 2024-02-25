@@ -45,7 +45,7 @@
 </div>
 <br>
 
-<img width=100% title="r-vb" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FC00FF,100:00DBDE&fontSize=65&section=footer"/> <!-- 0:00FFFF,100:0096FF -->
+<img width=100% onclick="return false" title="r-vb" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FC00FF,100:00DBDE&fontSize=65&section=footer"/> <!-- 0:00FFFF,100:0096FF -->
 
 
 <!--- 👋 Hi, I’m Rahul V.B
