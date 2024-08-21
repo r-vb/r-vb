@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Rahul V.B</h1>
 <h3 align="center">A CSE UG student | Tech Geek.</h3>
 
-- 🔭 I’m currently leading / working on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
+- 🔭 I lead / worked on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
 
-- 🤝 I’m looking for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
+- 🤝 I’m anticipating for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
 
 - 👨‍💻 All of my latest projects are available at **https://www.rahulvb.com**
 
