@@ -31,9 +31,9 @@
 </p>
 <br /> -->
 
-<hr>
-<div align="center">
-  <h2 align="center">Profile Stats</h2>
+<!-- <hr> -->
+<!-- <div align="center"> -->
+<!--   <h2 align="center">Profile Stats</h2> -->
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-vb&theme=algolia" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-vb&theme=algolia" alt="Repos per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-vb&theme=algolia" alt="Most Commit Language">
@@ -42,8 +42,8 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=r-vb&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="r-vb's Stats"> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=r-vb&theme=react&hide_border=true" alt="r-vb's Streak" width = "100%"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-vb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="r-vb's Top Languages"> -->
-</div>
-<br>
+<!-- </div> -->
+<!-- <br> -->
 
 <img width=100% onclick="return false" title="r-vb" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FC00FF,100:00DBDE&fontSize=65&section=footer"/> <!-- 0:00FFFF,100:0096FF -->
 
