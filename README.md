@@ -3,15 +3,17 @@
 
 <hr>
 <h1 align="center">Hi 👋, I'm Rahul V.B</h1>
-<h3 align="center">A CSE UG student | Tech Geek.</h3>
+<h3 align="center">Software Engineer | Tech Geek.</h3>
 
-- 🔭 I lead / worked on **SDMCET Insignia 2024** **www.sdmcetinsigniafest.com**
+- 🔭 I lead / working on **URL SHORTNER** **https://share.rahul.asia**
 
+<!--
 - 🤝 I’m anticipating for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
 
 - 👨‍💻 All of my latest projects are available at **https://www.rahulvb.com**
+-->
 
-- 💬 Official Website **www.rahulvb.com**
+- 💬 Official Website **www.rahulvb.com** | **www.rahul.asia**
 
 - 📫 How to reach me **github@rahulvb.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vb&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="r-vb" /> </p>
