@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rahul V B</h1>
 <h3 align="center">Software Engineer | Tech Geek.</h3>
 
-🔭 Anyone can freely use this **URL SHORTNER** **https://rahul.asia**
+🔭 Anyone can freely use this **URL SHORTNER** **https://m.rahul.asia**
 
 <!--
 - 🤝 I’m anticipating for help with **expansion of QWERTY.I/O Web Application** **www.sdmcetqwertyio.com**
